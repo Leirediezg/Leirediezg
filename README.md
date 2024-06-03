@@ -1,7 +1,7 @@
 <!-- Header with your name and a short description -->
 <h1>Hi 👋, I'm Leire Díez </h1>
 <h3>Digital Business Analyst and Data Enthusiast.</h3>
-<h4>👩🏽‍💻 With a burgeoning proficiency in Big Data and Artificial Intelligence, I combine a keen analytical aptitude with a creative mindset, leveraging technology to optimize business strategies through data. 🙏🏻</h4>
+<h4>👩🏽‍💻 With a burgeoning proficiency in Big Data and Artificial Intelligence, I combine a keen analytical aptitude with a creative mindset, leveraging technology to optimize business strategies through data. 🎯</h4>
 
 <!-- Social icons section -->
 <p>
@@ -19,13 +19,13 @@
 </p>
 
 <!-- About me section -->
-<h2>About Me</h2>
+<h2>⭐ About Me</h2>
 <p>
   <img align="right" src="https://avatars.githubusercontent.com/u/[Leirediezg]?v=4" width="150" />
   🌱 I'm currently learning advanced data analytics techniques and big data tools.<br/>
-  👯 I'm looking to collaborate on innovative data analysis and business intelligence projects.<br/>
-  💬 Ask me about digital marketing strategies and business analytics.<br/>
-  📫 How to reach me: leire.diez@student.ie.edu<br/>
+  👥 I'm looking to collaborate on innovative data analysis and business intelligence projects.<br/>
+  🚀 Ask me about digital marketing strategies and business analytics.<br/>
+  📪 How to reach me: leire.diez@student.ie.edu<br/>
 </p>
 
 <!-- Education section -->
@@ -39,7 +39,7 @@
 </p>
 
 <!-- Languages section -->
-<h2>🌐 Languages</h2>
+<h2>🌍 Languages</h2>
 <p>
   <ul>
     <li>Spanish (native)</li>
@@ -79,7 +79,7 @@
 
 
 <!-- Top coding languages -->
-<h2>📊 Skill Bars</h2>
+<h2>📊 Coding languages</h2>
 
 
 **Python**  
