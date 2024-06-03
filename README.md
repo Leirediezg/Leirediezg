@@ -89,6 +89,7 @@
 <!-- Custom Section: Quotes or Fun Section -->
 <h2 align="center">🌟 Quote of the Day</h2>
 <p align="center">
-<img src="Opinio.jpg" alt="Descripción de la imagen" width="300"/>
+
+<img src="6374221-W-Edwards-Deming-Quote-Without-data-you-re-just-another-person.jpg" alt="Descripción de la imagen" width="500"/>
 
 </p>
