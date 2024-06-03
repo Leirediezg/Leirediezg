@@ -1,7 +1,7 @@
 <!-- Header with your name and a short description -->
 <h1>Hi 👋, I'm Leire Díez </h1>
 <h3>Digital Business Analyst and Data Enthusiast.</h3>
-<h4>With a burgeoning proficiency in Big Data and Artificial Intelligence, 👩🏽‍💻 I combine a keen analytical aptitude with a creative mindset, leveraging technology to optimize business strategies through data. 🙏🏻</h4>
+<h4>👩🏽‍💻 With a burgeoning proficiency in Big Data and Artificial Intelligence, I combine a keen analytical aptitude with a creative mindset, leveraging technology to optimize business strategies through data. 🙏🏻</h4>
 
 <!-- Social icons section -->
 <p>
@@ -78,11 +78,15 @@
 </p>
 
 
-<!-- Top Languages -->
-<h2>🗣️ Top Languages</h2>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leirediezg&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<!-- Top coding languages -->
+<h2>📊 Skill Bars</h2>
+
+
+**Python**  
+🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 75%
+
+**SQL**  
+🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 90%
 
 <!-- Custom Section: Quotes or Fun Section -->
 <h2>🌟 Quote of the Day</h2>
