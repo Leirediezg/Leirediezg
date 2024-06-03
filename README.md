@@ -51,30 +51,19 @@
 <!-- Technical Skills section -->
 <h2>🛠️ Technical Skills</h2>
 <p>
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  <a href="https://azure.microsoft.com/en-us/services/lab-services/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-lab-services/lab-plan.png" alt="Azure Lab Services" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/> 
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/master/SVG/PowerBI.svg" alt="Power BI" width="40" height="40"/> 
-  </a>
-  <a href="https://analytics.google.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google Analytics" width="40" height="40"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="Excel" width="40" height="40"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/office/office-original.svg" alt="MS Office" width="40" height="40"/> 
-  </a>
-  <a href="https://github.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
-  </a>
+ 
+### Microsoft Office
+![Microsoft Office](assets/Microsoft_Office_logos_(2013-2019).svg.png)
+### GitHub
+![GitHub](assets/25231.png)
+### Power BI
+![Power BI](assets/630px-New_Power_BI_Logo.svg.png)
+### SQL
+![SQL](assets/kisspng-microsoft-azure-sql-database-microsoft-azure-sql-d-postani-spletni-razvijalec-izberite-svojo-uno-5cfe7bd5b6e377.6992930615601817177491.png)
+### Azure
+![Azure](assets/apps.24006.aeafc8b6-6b2f-4b57-a785-0d72d6ac87e3.ed1b78b0-a4df-461a-bc56-87cda4a3db35.f5dc647b-1c3a-45dc-9e03-2127888ab074.png)
+### Python
+![Python](assets/kisspng-web-development-python-software-developer-web-deve-python-logo-5b3fcce17a0071.1497511915309078734997.png)
 </p>
 
 
