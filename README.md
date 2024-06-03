@@ -1,9 +1,7 @@
-## Hi there 👋
-
 <!-- Header with your name and a short description -->
 <h1>Hi 👋, I'm Leire Díez </h1>
 <h3>Digital Business Analyst and Data Enthusiast.</h3>
-<h3>With a burgeoning proficiency in Big Data and Artificial Intelligence, 👩🏽‍💻 I combine a keen analytical aptitude with a creative mindset, leveraging technology to optimize business strategies through data. 🙏🏻</h3>
+<h4>With a burgeoning proficiency in Big Data and Artificial Intelligence, 👩🏽‍💻 I combine a keen analytical aptitude with a creative mindset, leveraging technology to optimize business strategies through data. 🙏🏻</h4>
 
 <!-- Social icons section -->
 <p>
@@ -56,7 +54,7 @@
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
-  <a href="https://www.microsoft.com/en-us/azure-lab-services" target="_blank"> 
+  <a href="https://azure.microsoft.com/en-us/services/lab-services/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/101-lab-services/lab-plan.png" alt="Azure Lab Services" width="40" height="40"/> 
   </a>
   <a href="https://www.w3schools.com/sql/" target="_blank"> 
@@ -78,6 +76,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
   </a>
 </p>
+
 
 <!-- Top Languages -->
 <h2>🗣️ Top Languages</h2>
