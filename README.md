@@ -89,6 +89,6 @@
 <!-- Custom Section: Quotes or Fun Section -->
 <h2 align="center">🌟 Quote of the Day</h2>
 <p align="center">
-![91a56409-7270-4693-a447-9f3c13522bdb_SP+810+-+Without+data](https://github.com/Leirediezg/Leirediezg/assets/156078924/55119045-5519-4bb7-a3c5-ad043d89690d)
+<img src="Opinio.jpg" alt="Descripción de la imagen" width="300"/>
 
 </p>
