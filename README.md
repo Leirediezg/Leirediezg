@@ -1,7 +1,7 @@
 <!-- Header with your name and a short description -->
-<h1>Hi 👋, I'm Leire Díez </h1>
-<h3>Digital Business Analyst and Data Enthusiast.</h3>
-<h4>👩🏽‍💻 With a burgeoning proficiency in Big Data and Artificial Intelligence, I combine a keen analytical aptitude with a creative mindset, leveraging technology to optimize business strategies through data. 🎯</h4>
+<h1> <strong>Hi 👋, I'm Leire Díez </strong>  </h1>
+<h3>  Digital Business Analyst and Data Enthusiast</h3>
+<h4>👩🏽‍💻 With a burgeoning proficiency in Big Data and Artificial Intelligence, I combine a keen analytical aptitude with a creative mindset, leveraging technology to optimize business strategies through data 🎯</h4>
 
 <!-- Social icons section -->
 <p>
@@ -51,7 +51,7 @@
 <!-- Technical Skills section -->
 <h2>🛠️ Technical Skills</h2>
 <p>
- <img src="Diseño sin título (2).jpg" width="600" />
+ <img src="Diseño sin título (2).jpg" width="500" />
 </p>
 
 
@@ -68,5 +68,5 @@
 <!-- Custom Section: Quotes or Fun Section -->
 <h2>🌟 Quote of the Day</h2>
 <p>
-  <img src="6374221-W-Edwards-Deming-Quote-Without-data-you-re-just-another-person.jpg" alt="Descripción de la imagen" />
+  <img src="6374221-W-Edwards-Deming-Quote-Without-data-you-re-just-another-person.jpg" alt="Descripción de la imagen" width="650" />
 </p>
