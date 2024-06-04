@@ -6,10 +6,10 @@
 <!-- Social icons section -->
 <p>
   <a href="mailto:leire.diez@student.ie.edu" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="50" />
   </a>
   <a href="https://linkedin.com/in/leire-diez" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="50" />
   </a>
 </p>
 
@@ -51,7 +51,7 @@
 <!-- Technical Skills section -->
 <h2>🛠️ Technical Skills</h2>
 <p>
- <img src="Diseño sin título (2).jpg" />
+ <img src="Diseño sin título (2).jpg" width="600" />
 </p>
 
 
