@@ -21,7 +21,6 @@
 <!-- About me section -->
 <h2>⭐ About Me</h2>
 <p>
-  <img align="right" src="https://avatars.githubusercontent.com/u/[Leirediezg]?v=4" width="150" />
   🌱 I'm currently learning advanced data analytics techniques and big data tools.<br/>
   👥 I'm looking to collaborate on innovative data analysis and business intelligence projects.<br/>
   🚀 Ask me about digital marketing strategies and business analytics.<br/>
